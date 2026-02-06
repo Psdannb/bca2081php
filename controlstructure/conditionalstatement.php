@@ -119,7 +119,7 @@ switch($day){
     }
 }
     */
-$day="sun";
+/* $day="sun";
 switch($day){
     // if($day=="sun")
     case "sun":{
@@ -154,6 +154,9 @@ switch($day){
         echo"Invalid input";
     }
 }
+*/
+
+
 
 
 
